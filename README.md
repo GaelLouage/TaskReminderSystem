@@ -1,6 +1,6 @@
 # 🧠 Task Reminder System
 
-A simple C# console-based service to manage task reminders with auto-cleanup functionality.  
+A simple C# service to manage task reminders with auto-cleanup functionality.  
 Ideal for practicing service design, LINQ, and clean code principles.
 
 ---
