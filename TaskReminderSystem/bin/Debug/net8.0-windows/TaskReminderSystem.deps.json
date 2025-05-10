@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TaskReminderSystem/1.0.0": {
+        "dependencies": {
+          "TaskReminderSystemInfra": "1.0.0"
+        },
+        "runtime": {
+          "TaskReminderSystem.dll": {}
+        }
+      },
+      "TaskReminderSystemInfra/1.0.0": {
+        "runtime": {
+          "TaskReminderSystemInfra.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskReminderSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaskReminderSystemInfra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

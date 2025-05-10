@@ -1,0 +1,11 @@
+C:\Users\louag\source\repos\TaskReminderSystem\TaskReminderSystemInfra\bin\Debug\net8.0\TaskReminderSystemInfra.deps.json
+C:\Users\louag\source\repos\TaskReminderSystem\TaskReminderSystemInfra\bin\Debug\net8.0\TaskReminderSystemInfra.dll
+C:\Users\louag\source\repos\TaskReminderSystem\TaskReminderSystemInfra\bin\Debug\net8.0\TaskReminderSystemInfra.pdb
+C:\Users\louag\source\repos\TaskReminderSystem\TaskReminderSystemInfra\obj\Debug\net8.0\TaskReminderSystemInfra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louag\source\repos\TaskReminderSystem\TaskReminderSystemInfra\obj\Debug\net8.0\TaskReminderSystemInfra.AssemblyInfoInputs.cache
+C:\Users\louag\source\repos\TaskReminderSystem\TaskReminderSystemInfra\obj\Debug\net8.0\TaskReminderSystemInfra.AssemblyInfo.cs
+C:\Users\louag\source\repos\TaskReminderSystem\TaskReminderSystemInfra\obj\Debug\net8.0\TaskReminderSystemInfra.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\TaskReminderSystem\TaskReminderSystemInfra\obj\Debug\net8.0\TaskReminderSystemInfra.dll
+C:\Users\louag\source\repos\TaskReminderSystem\TaskReminderSystemInfra\obj\Debug\net8.0\refint\TaskReminderSystemInfra.dll
+C:\Users\louag\source\repos\TaskReminderSystem\TaskReminderSystemInfra\obj\Debug\net8.0\TaskReminderSystemInfra.pdb
+C:\Users\louag\source\repos\TaskReminderSystem\TaskReminderSystemInfra\obj\Debug\net8.0\ref\TaskReminderSystemInfra.dll
